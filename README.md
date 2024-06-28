@@ -1,2 +1,3 @@
 # FIRST
 CREATING MY FIRST REPOSITORY
+Author - Ajay Tripathi
